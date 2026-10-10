@@ -1,97 +1,151 @@
-# Hi there 👋 I'm Charumathi R
+# Hi, I'm Charumathi R 👋
 
-🎓 Computer Science Engineering graduate passionate about **Artificial Intelligence, Machine Learning, Data Analytics, and Software Development**. I enjoy transforming data into meaningful insights and building intelligent applications that solve real-world problems.
+### Aspiring QA Engineer | Software Testing | Selenium Automation | Java | SQL
 
-My experience spans **Python, Java, SQL, Machine Learning, NLP, Power BI, and Manual Testing**, with hands-on experience through internships, academic projects, and technical training. I enjoy learning new technologies, collaborating with teams, and continuously improving my problem-solving skills.
+I'm a Computer Science Engineering graduate currently working as a Sales Analyst and transitioning into Software Testing and Quality Assurance.
 
-## 🚀 What I'm Working On
+I have completed training in Software Testing and Selenium Automation and am focused on strengthening my practical skills in manual testing, test case design, and automation testing.
 
-* 🤖 Machine Learning & NLP applications
-* 📊 Interactive dashboards using Power BI and Excel
-* 🐍 Python automation and data analysis
-* ☕ Java, SQL, and Software Testing
-* 🌱 Exploring Generative AI and Prompt Engineering
+My analytical background, technical education, and interest in problem-solving motivate me to build reliable, well-tested software.
 
-## 🛠️ Tech Stack
+🎯 **Career Goal:** To begin my career in QA Engineering and grow into an Automation QA Engineer.
 
-**Languages**
+📍 **Location:** Chennai, Tamil Nadu, India
 
-* Python
+## 🔍 Areas of Interest
+
+* Software Quality Assurance
+* Manual and Functional Testing
+* Selenium WebDriver Automation
+* Test Case Design and Execution
+* Regression Testing
+* Java and SQL for Testing
+* Defect Identification and Reporting
+
+## 🛠️ Technical Skills
+
+**Software Testing**
+
+* Manual Testing
+* Test Case Design
+* Functional Testing
+* Regression Testing
+* Bug Reporting
+
+**Automation Testing**
+
+* Selenium WebDriver
 * Java
-* SQL
-* C
-* C++
+* Test Automation Fundamentals
 
-**Data Analytics**
+**Programming and Databases**
+
+* Java
+* Python
+* SQL
+
+**Development Tools**
+
+* Git
+* GitHub
+
+**Additional Technical Knowledge**
 
 * Power BI
-* Tableau
 * Excel
-* Pandas
-* NumPy
-* Power Query
-* DAX
+* Python Data Analysis
+* Machine Learning Fundamentals
 
-**Machine Learning**
+*Additional testing tools and frameworks will be listed as I gain hands-on experience with them.*
 
-* Scikit-learn
-* NLP
-* Gensim
-* Random Forest
-* OpenCV
-* dlib
+## 🚀 Projects
 
-**Tools**
+### 1. Selenium Automation Testing Project
 
-* Git & GitHub
-* Kaggle
+**Status:** In progress
 
-## 🌟 Featured Projects
+A practical project focused on automating common web application workflows and validating expected application behavior.
 
-🔹 **Smart Fake News Detection System with Translation Support**
+Planned test scenarios:
 
-* Built an NLP-based fake news detection system using Random Forest, TF-IDF, and Gensim.
-* Achieved **92%+ accuracy** with multilingual translation support.
+* Login and authentication validation
+* Positive and negative test cases
+* Form validation
+* Navigation and web element interactions
+* Assertions and test result validation
 
-🔹 **Real-Time Driver Drowsiness Detection**
+**Technologies:** Selenium WebDriver, Java
 
-* Developed a real-time driver monitoring system using OpenCV and dlib.
-* Presented at **NCETEST'25 National Conference**.
+[View Project](https://github.com/charuq)
 
-🔹 **E-Commerce Sales Dashboard**
+*Replace this link with the direct repository URL when the project is available.*
 
-* Interactive Power BI dashboard with KPIs, DAX measures, trend analysis, and dynamic filters.
+### 2. Smart Fake News Detection System
 
-🔹 **Healthcare Performance Dashboard**
+Developed an NLP-based fake news detection application using machine learning techniques and translation support.
 
-* Excel dashboard using Pivot Tables, Charts, KPIs, and Slicers for healthcare analytics.
+* Used TF-IDF and machine learning techniques for text classification.
+* Explored multilingual text processing.
+* Evaluated model performance on the project dataset.
+
+**Technologies:** Python, NLP, Scikit-learn
+
+[Explore My Repositories](https://github.com/charuq?tab=repositories)
+
+### 3. Real-Time Driver Drowsiness Detection
+
+Developed a real-time driver monitoring project using computer vision techniques.
+
+* Processed visual input to identify signs of drowsiness.
+* Used OpenCV and dlib.
+* Presented the project at NCETEST'25.
+
+**Technologies:** Python, OpenCV, dlib
+
+[Explore My Repositories](https://github.com/charuq?tab=repositories)
+
+### 4. E-Commerce Sales Dashboard
+
+Created an interactive Power BI dashboard to analyze sales performance.
+
+* Visualized key performance indicators.
+* Explored sales trends and business metrics.
+* Used DAX measures and interactive filters.
+
+**Technologies:** Power BI, DAX, Data Analytics
+
+[Explore My Repositories](https://github.com/charuq?tab=repositories)
 
 ## 💼 Experience
 
-* **Web Development Intern** @ DATASOFTIXS
-* **Data Analytics Intern** @ TechnoHacks Solutions Pvt. Ltd.
+* Sales Analyst — Current role
+* Web Development Intern — DATASOFTIXS
+* Data Analytics Intern — TechnoHacks Solutions Pvt. Ltd.
 
 ## 🏆 Achievements
 
-* 📄 Presented research papers at **NCETEST'25** and **NCETEST'26**
-* 🧠 Presented projects at **TECH FEST 2K26**
-* 👩‍🏫 Conducted a Value-Added Course on **"Learn Python, Power it with AI"**
-* 📜 Certified in Power BI, Machine Learning, Data Analytics, Generative AI, and Prompt Engineering
+* Presented research at NCETEST'25 and NCETEST'26.
+* Presented projects at TECH FEST 2K26.
+* Conducted a value-added course on "Learn Python, Power It with AI."
+* Earned certifications in technical subjects including Data Analytics, Power BI, and Machine Learning.
 
-## 📈 Current Focus
+## 📚 Currently Learning
 
-* Machine Learning
-* Data Analytics
-* Java Development
-* Software Testing
-* Open Source Contributions
+* Manual Testing Fundamentals
+* Selenium WebDriver
+* Java for Automation Testing
+* SQL for QA
+* Writing effective test cases
+* Building practical testing projects
 
-### 📫 Let's Connect
+## 🤝 Let's Connect
 
-* 💼 LinkedIn: [www.linkedin.com/in/charumathi285](http://www.linkedin.com/in/charumathi285)
-* 💻 GitHub: github.com/charuq
-* 📧 Email: [mathicharu13128@gmail.com](mailto:mathicharu13128@gmail.com)
+* **LinkedIn:** [linkedin.com/in/charumathi285](https://www.linkedin.com/in/charumathi285/)
+* **GitHub:** [github.com/charuq](https://github.com/charuq)
+
+I'm interested in connecting with QA professionals, learning from experienced engineers, and exploring entry-level opportunities in Software Testing and QA Automation.
 
 ---
+
 
 *"Building intelligent solutions with data, code, and continuous learning."*
